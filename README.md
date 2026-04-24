@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Manju</h1>
-<h3 align="center">🚀 AI Developer | Full Stack Developer | Hackathon Builder</h3>
+<h1 align="center">Hi 👋, I'm Khushboo</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor" />
