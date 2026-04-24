@@ -105,9 +105,7 @@
   <img src="https://streak-stats.demolab.com?user=Khushboo3107-djjk&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushboo3107-djjk&theme=tokyo-night&hide_border=true"/>
-</p>
+
 
 ---
 
