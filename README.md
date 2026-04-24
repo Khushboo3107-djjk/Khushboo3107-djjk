@@ -81,15 +81,6 @@
 🔗 https://github.com/Khushboo3107-djjk/DSA_Projects
 💡 Data Structures & Algorithms implementations
 
----
-
-### 🌍 Open Source Contribution
-
-🔗 https://github.com/Khushboo3107-djjk/Basho-by-Shivangi
-💡 Contribution to GWOC open-source project
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
