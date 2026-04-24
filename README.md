@@ -57,7 +57,7 @@
 
 ### 📘 ML Fundamentals
 
-🔗 https://github.com/YOUR_USERNAME/ml-fundamentals
+🔗 https://github.com/Khushboo3107-djjk/ml-fundamentals
 💡 Core ML concepts with Jupyter notebooks
 
 ---
